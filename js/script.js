@@ -1,3 +1,4 @@
+// Огромный проект головы крипера на канвас.
 const canvas = document.querySelector('#canvas');
 console.log(canvas);
 
